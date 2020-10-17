@@ -1,7 +1,7 @@
 # Machine-Learning-Beginners
 My training on the introduction of machine learning at Dicoding Academy
 
-![Table](https://user-images.githubusercontent.com/43465830/96352058-a87ba800-10ea-11eb-820d-2ac93e5b4994.PNG)
+    ![Table](https://user-images.githubusercontent.com/43465830/96352058-a87ba800-10ea-11eb-820d-2ac93e5b4994.PNG)
 
 
 
